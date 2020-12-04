@@ -69,3 +69,78 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+
+
+/*Volandemort*/
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 55px;
+  
+}
+
+.main-nav li {
+        display: inline-block;
+        margin-left: 40px;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.btn:link,
+.btn:visited,
+input[type=submit] {
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.btn-full:link,
+.btn-full:visited,
+input[type=submit] {
+    background-color: rgb(1, 116, 192);
+    border: 1px solid rgb(1, 116, 192);
+    color: #fff;
+    margin-right: 15px;
+}
+
+.btn-ghost:link,
+.btn-ghost:visited {
+    border: 1px solid rgb(1, 116, 192);
+    color: rgb(1, 116, 192);
+}
+
+.hero-text-box{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn-m {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.box-menu {
+    margin: 10px 0 10px 0;
+}
+
+.card {
+    border: 1px gray;
+    margin: 10px 10px 10px 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+    box-shadow: 2px 2px 2px rgb(139, 139, 139);
+}
+
+
+
+
+
