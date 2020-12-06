@@ -10,7 +10,7 @@ namespace newjaposha.Catalogs
 {
     public class OrderCatalog
     {
-        //Georgijs Katasevs
+        //Georgijs Katasevs AHUENNO TUSIM
         List<Order> _orders;
         public OrderCatalog(string fileNam)
         {
